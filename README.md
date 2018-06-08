@@ -70,7 +70,7 @@
             window.open('http://www.google.com/', '_blank');
             }
             </script>
-    <a href="javascript:abrir2paginas()">Texto o Imagen</a>
+    <a href="javascript:abrir2paginas()">Abre google. Clic acá</a>
     <div>
         <a href="da.html">Otra página</a>
     </div>
